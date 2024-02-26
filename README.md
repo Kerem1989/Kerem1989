@@ -3,13 +3,18 @@ Hello there! 👋 I'm Kerem Bjälvenäs Tazedal, currently studying Java develop
 About Me
 
 📚 Studying Java development at the swedish IT-College.
+
 💻 Aiming to become a full-stack developer.
+
 🚀 Striving to code for societal impact and value generation.
 
 What You'll Find Here
 
+
 🛠 Projects and codebases I'm currently working on.
+
 📚 Sharing knowledge and insights from my journey.
+
 🤝 Open to collaboration and feedback.
 
 Let's build something amazing together! 🚀
