@@ -8,13 +8,3 @@ About Me
 
 🚀 Striving to code for societal impact and value generation.
 
-What You'll Find Here
-
-
-🛠 Projects and codebases I'm currently working on.
-
-📚 Sharing knowledge and insights from my journey.
-
-🤝 Open to collaboration and feedback.
-
-Let's build something amazing together! 🚀
