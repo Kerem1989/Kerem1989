@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I'm Kerem Bjälvenäs, currently studying Java development at the Swedish IT-College. My focus is on becoming a proficient developer and contributing to society by creating valuable and meaningful solutions.
+I'm Kerem Bjälvenäs Tazedal, currently studying Java development at the Swedish IT-College. My focus is on becoming a proficient developer and contributing to society by creating valuable and meaningful solutions.
 
 **About Me:**
 
