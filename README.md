@@ -2,7 +2,7 @@
   <h1>Hello there! 👋 I'm Kerem</h1>
 </div>
 <div align="center">
-  <h3>A passionate backend developer student</h3>
+  <h3>A passionate developer student</h3>
 </div>
 
 * 🔭 I’m currently working on Java and Kotlin projects
