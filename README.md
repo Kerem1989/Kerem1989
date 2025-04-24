@@ -2,14 +2,14 @@
   <h1>Hello there! 👋 I'm Kerem</h1>
 </div>
 <div align="center">
-  <h3>A passionate developer student</h3>
+  <h3>Backend developer | API & integration enthusiast | Java & Spring Boot</h3>
 </div>
 
-* 📫 How to reach me kerem.tazedal@iths.se
+💼 Currently building a headless CMS in Java for **Levant Insights Consulting**, where I lead fullstack development using Spring Boot and React.
 
-* 🎓 Student at IT-Högskolan
+🔗 Previously at **FlowFactory**, where I developed integrations with Azure OpenAI and Jira, and worked on internal tools like a support ticket system with REST APIs.
 
-Currently studying Java development at the Swedish IT-College. My focus is on becoming a proficient developer and contributing to society by creating valuable and meaningful solutions, with an aim to become a full-stack developer. Always want to strive to code for societal impact and value generation.
+💬 I'm passionate about creating solutions that bridge systems and generate real-world impact – especially through clean architecture, modern integration techniques, and user-centered design.
 
 ### 🛠️ Languages and Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)  
