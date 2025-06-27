@@ -2,7 +2,7 @@
   <h1>Hello there! 👋 I'm Kerem</h1>
 </div>
 <div align="center">
-  <h3>Backend developer | API & integration enthusiast | Java & Spring Boot</h3>
+  <h3>Fullstack developer | API & integration enthusiast | Java, React & Spring Boot</h3>
 </div>
 
 💼 Currently building a headless CMS in Java for **Levant Insights Consulting**, where I lead fullstack development using Spring Boot and React.
