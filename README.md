@@ -84,7 +84,7 @@ Designed and developed a support ticketing system that replaced Zendesk at FlowF
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/keremtazedal/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kerem.tazedal@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kerem.tazedal.89@gmail.com)
 
 ---
 
