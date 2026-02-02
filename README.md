@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Kerem Bjälvenäs Tazedal</h1>
-  <h3>Fullstack Developer | System Integration Specialist | AI Enthusiast</h3>
+  <h3>Software Developer | C#/.NET & Java/Spring Boot | System Integration & AI</h3>
   <p>Building scalable solutions that bridge systems and create real-world impact</p>
 </div>
 
@@ -8,17 +8,16 @@
 
 ## 🚀 About Me
 
-I'm a fullstack software developer based in Stockholm, Sweden, with a passion for creating elegant solutions to complex problems. I specialize in **system integrations**, **API development**, and **AI-powered applications** that streamline business processes and enhance user experiences.
+I'm a software developer based in Stockholm, Sweden, focusing on **C#/.NET**, **FlowFactory**, and **system integrations**. I build solutions with Jira integration and AI support via Azure, develop systems in Java/Spring Boot with authentication, data modeling, and REST APIs. Certified in **Microsoft Azure AI Fundamentals (AI-900)**.
 
 💼 **Currently working on:**
-- **Head of IT @ Action10** - Leading IT infrastructure, digital transformation (OnlyOffice → Notion), and developing an AI assistant using LLM and RAG for volunteer onboarding
-- **Software Developer @ We Clean Green** - Building sustainable solutions with Python, React, and TypeScript, including an AI-powered CO₂ calculator with Azure OpenAI
-- **Software Developer @ Levant Insights Consulting** - Developing a headless CMS with Spring Boot, migrating websites to modern React/Tailwind stacks, and implementing AI-powered publishing workflows
+- **Software Developer @ RelyITS** - Developing solutions in FlowFactory with focus on configuration, automation, and custom controls (HTML/CSS/JS). Building custom activities in C#/.NET for backend logic and integrations
+- **Head of IT @ Action10** (Volunteer) - Leading IT infrastructure, Microsoft 365 administration, and developing an AI assistant (A10 Buddy) using LLM and RAG for volunteer onboarding
 
 🔧 **Previously:**
-- Built an internal support system at **FlowFactory** that replaced Zendesk, reducing costs and increasing flexibility
-- Developed integrations with Azure AI Foundry, Jira, and Trello for automated workflows
-- Led fullstack development projects with Spring Boot and React
+- **Levant Insights Consulting** - Built a CMS in Spring Boot with AI integration via Spring AI, migrated website to React/Tailwind achieving top Google rankings
+- **Clean Green** - Developed cleangreen.se with Python, React, TypeScript, and built an AI-powered CO₂ calculator with Azure OpenAI
+- **FlowFactory** - Built an internal support system replacing Zendesk, with Azure AI Foundry and Jira/Trello integrations
 
 ## 🛠️ Tech Stack
 
@@ -41,37 +40,45 @@ I'm a fullstack software developer based in Stockholm, Sweden, with a passion fo
 ![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?logo=openai&logoColor=white&style=flat)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat)
 
-**Tools & Platforms**  
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+
+**Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=flat)
 
 ## 🎯 Featured Projects
 
+### 🌐 [Levant Insights – Official Website](https://www.levantinsights.com)
+Responsive and professional company website built with React and Tailwind CSS. Features article section, contact forms, and newsletter, deployed via Netlify.
+
+### 📝 [SveaCMS – Content Management System](https://sveacms.onrender.com)
+Scalable CMS developed with Java, Spring Boot, and Thymeleaf. Supports article management, authentication, and is containerized with Docker. Deployed via Render with CI/CD from GitHub Actions.
+
+### 🌍 [World Politics Explorer](https://world-politics-explorer-aac779bf66e9.herokuapp.com/)
+A platform that visualizes and analyzes global political ideologies. Built with Java, Spring Boot, MySQL, and REST API, featuring dynamic graphs and interactive maps.
+
+### ⚽ [Allsvenskan GPT](https://allsvenskangpt-dfaf997e3862.herokuapp.com/)
+An AI-driven assistant that answers questions about Allsvenskan, Sweden's top football league. Backend built with Python and Flask with OpenAI integration.
+
 ### 🤖 A10 Buddy - AI Assistant with RAG
-Built a Zapier-based AI assistant using LLM and Retrieval-Augmented Generation on organizational data to streamline volunteer onboarding and knowledge sharing at Action10.
+Built a Zapier-based AI assistant using LLM and Retrieval-Augmented Generation to streamline volunteer onboarding and knowledge sharing at Action10.
 
-### 🌱 CO₂ Impact Calculator
-Developed a RESTful AI service in C# with Azure OpenAI integration that calculates and compares CO₂ emissions between conventional and ecological cleaning services, visualizing environmental impact in real-time.
+## 📚 Education & Certifications
 
-### 📝 Headless CMS with AI Integration
-Created a full-stack CMS using Spring Boot with AI-powered content generation via Spring AI, including authentication, data modeling, and React frontend integration.
-
-### 🏢 Levant Insights Website Migration
-Migrated levantinsights.com from Wix to a modern React/Tailwind solution, achieving top Google rankings for political consulting searches through improved SEO, accessibility, and semantic HTML.
-
-### 🎫 Internal Support System
-Designed and developed a support ticketing system that replaced Zendesk at FlowFactory, featuring Azure AI Foundry integrations for document analysis and automated decision support.
-
-## 📚 Education
-
-**IT-Högskolan** - Software Development (Java Focus)  
+**IT-Högskolan** - Software Development (Java Focus)
 *2023 - 2025*
 
-**Stockholm University** - Bachelor's Degree in Political Science  
+**Stockholm University** - Bachelor's Degree in Political Science
 *2015 - 2019*
+
+**Certifications:**
+![Azure](https://img.shields.io/badge/-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub%20Foundations-181717?logo=github&logoColor=white&style=flat)
 
 ## 💡 What I'm Passionate About
 
